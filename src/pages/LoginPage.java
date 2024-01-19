@@ -11,7 +11,6 @@ public class LoginPage {
 		String un="admin";
 		String pw="admin";
 		
-		System.out.println("User Logged In: "+ un +" -- " +pw);
 		
 		
 	}
